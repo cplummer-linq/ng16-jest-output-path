@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
+Demonstration repo for this issue:  
+https://github.com/angular/angular-cli/issues/25188
 
 ## Running unit tests via Jest
 
